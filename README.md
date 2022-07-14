@@ -1,3 +1,4 @@
-Responsive Registration Form using HTML and CSS
+# Responsive Registration Form
+### Using HTML and CSS
 
 https://abhinavthapa1998.github.io/Responsive-Registration-Form/
